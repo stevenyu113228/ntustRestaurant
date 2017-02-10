@@ -1,0 +1,9 @@
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\bin\Debug\eat.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\bin\Debug\eat.exe
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\bin\Debug\eat.pdb
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\obj\Debug\eat.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\obj\Debug\eat.Form1.resources
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\obj\Debug\eat.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\obj\Debug\eat.csproj.GenerateResource.Cache
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\obj\Debug\eat.exe
+c:\users\steve\documents\visual studio 2015\Projects\eat\eat\obj\Debug\eat.pdb
